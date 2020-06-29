@@ -1,0 +1,297 @@
+/* main page */
+html {
+scroll-behavior: smooth;
+}
+
+
+body{
+	font-family: 'Comfortaa', cursive;
+	padding: 0;
+	margin: 0;
+}
+
+li{
+	display: inline-block;
+}
+
+a{
+	text-decoration: none;
+}
+
+button{
+	background: transparent;
+	border: 2px black solid;
+	border-radius: 100px;
+	padding: 10px 15px 10px 15px;
+}
+
+
+.d-flex{
+	display: flex;
+}
+
+.alignItemsCenter{
+	align-items: center;
+}
+
+.container-fluid{
+	width: 100%;
+}
+
+.container{
+	position: relative;
+	top: 20%;
+	max-width: 80%;
+	margin: 0 auto;
+}
+
+.fonNav{
+	background-color: #fafafa;
+	height: 214px;
+}
+
+.logo{
+	margin-right: 35%;
+}
+
+.navInf{
+	color: black;
+	font-size: 43px;
+	font-weight: 700;
+	margin-right: 30px;
+}
+
+.sectionCarshering{
+	padding-bottom: 65px;
+}
+
+.cars{
+	display: flex;
+	justify-content: center;
+	margin-top: 40px;
+}
+
+.carRight{
+	margin-right: auto;
+}
+
+
+.borderBottom{
+	border-bottom: 5px solid #ac230b;
+	height: 266px;
+}
+
+.carshering{
+	font-size: 117px;
+	font-weight: 700;
+	right: 20%;
+}
+
+.register_entry{
+	margin-left: 12%;
+}
+
+.register, .entry{
+	margin-right: 30px;
+	font-family: 'Comfortaa', cursive;
+	font-size: 47px;
+	font-weight: 700
+}
+
+.fonSection{
+	background-color: #fafafa;
+	padding-bottom: 228px;
+}
+
+.row{
+	margin-left: 40px;
+}
+
+.ratesPrice{
+	margin-top: 197px;
+}
+
+
+.rates-top{
+    padding-top: 55px;
+}
+
+.rates{
+	font-size: 72px;
+	font-weight: 700;
+}
+
+.borderRadius-1{
+	width: 327px;
+	height: 327px;
+	border:5px black solid;
+	border-radius: 200px;
+	margin-left: 450px;
+}
+
+
+.borderRadius-2{
+	width: 327px;
+	height: 327px;
+	border:5px black solid;
+	border-radius: 200px;
+	margin-left: 350px;
+}
+
+
+.iconCar{
+	position: relative;
+    top: 30%;
+    left: 26%;
+}
+
+.iconallIn{
+	position: relative;
+    top: 27.5%;
+    left: 28.5%;
+}
+
+.txtBlock-1{
+	margin-left: 435px;
+	margin-top: 27px;
+}
+
+.Block-2{
+	margin-top: 75px;
+}
+
+.txtBlock-2{
+	margin-left: 300px;
+}
+
+.textAlign{
+	text-align: center;
+}
+
+.boldratesInfo{
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1px;
+}
+
+.ratesInfo{
+	font-size: 30px;
+}
+
+.map{
+	width: 696px;
+	border: 5px black solid;
+	border-radius: 50%;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.sectionMap{
+	padding-bottom: 80px;
+}
+
+.justify-content-center{
+	display: flex;
+	justify-content: center;
+}
+
+.BlockLadaGranta, .BlockLadaXRAY, .BlockTayota{
+	width: 326px;
+	height: 326px;
+	border: 5px black solid;
+	border-radius: 50%;
+	margin: 145px;
+}
+
+.LadaGranta{
+	position: relative;
+	top: 18%;
+	left: 8%;
+}
+
+.LadaXRAY, .Tayota{
+	position: relative;
+	top: 26%;
+	left: 8%;
+}
+
+.sectionAuto{
+	background-color: #fafafa;
+}
+
+.txtLadaGranta{
+	position: relative;
+	top: -125px;
+
+	font-weight: 700;
+	font-size: 36px;
+}
+
+.txt2015{
+	position: relative;
+	top: -155px;
+	font-size: 30px;
+}
+
+.txtBlockLadaGranta{
+	text-align: center;
+}
+
+.stringReviews{
+	width: 960px;
+	height: 133px;
+	background-color: #e0e0e0;
+	border-radius: 100px;
+}
+
+.avatar{
+	width: 99px;
+	height: 99px;
+	margin-left: 11px;
+}
+
+.imgAvatar{
+	border: 2px black solid;
+	border-radius: 50%;
+	padding: 2px 2px 2px 2px;
+}
+
+.review{
+    margin-left: 55px;
+    border-left: 2px black solid;
+    padding-left: 55px;
+    height: 95px;
+}
+
+.txtReview{
+    font-size: 36px;
+}
+
+.fieldInput{
+	padding-left: 20px;
+	font-size: 30px;
+	overflow: hidden;
+	width: 940px;
+	height: 330px;
+	border-radius: 50px;
+	border: 2px #ac230b solid;
+}
+
+.buttonInput{
+	font-family: 'Comfortaa', cursive;
+	padding: 10px 15px 10px 15px;
+	background-color: #bb3636;
+	font-size: 48px;
+	color: white;
+	border: none;
+	border-radius: 100px;
+}
+form {
+width: 500px;
+
+
+
+}
+/* main page */
+
+/* register */
